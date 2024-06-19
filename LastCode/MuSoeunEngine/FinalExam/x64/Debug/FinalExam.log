@@ -1,0 +1,17 @@
+﻿  Objects.cpp
+C:\Users\YUHAN\Downloads\MuSoeunEngine\packages\glfw.3.4.0\build\native\include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Objects.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(12,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(13,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(18,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(19,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(30,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(30,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(36,37): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(37,37): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(84,37): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(85,38): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(105,37): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YUHAN\Downloads\MuSoeunEngine\FinalExam\Objects.cpp(106,38): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FinalExam.vcxproj -> C:\Users\YUHAN\Downloads\MuSoeunEngine\x64\Debug\FinalExam.exe
